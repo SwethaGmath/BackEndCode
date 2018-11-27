@@ -1,0 +1,7 @@
+C:\Users\Lokesh\Documents\Swetha\C# .netProjects\DictionaryCollections\DictionaryCollections\obj\Debug\DictionaryCollections.csproj.CoreCompileInputs.cache
+C:\Users\Lokesh\Documents\Swetha\C# .netProjects\DictionaryCollections\DictionaryCollections\bin\Debug\DictionaryCollections.exe.config
+C:\Users\Lokesh\Documents\Swetha\C# .netProjects\DictionaryCollections\DictionaryCollections\bin\Debug\DictionaryCollections.exe
+C:\Users\Lokesh\Documents\Swetha\C# .netProjects\DictionaryCollections\DictionaryCollections\bin\Debug\DictionaryCollections.pdb
+C:\Users\Lokesh\Documents\Swetha\C# .netProjects\DictionaryCollections\DictionaryCollections\obj\Debug\DictionaryCollections.exe
+C:\Users\Lokesh\Documents\Swetha\C# .netProjects\DictionaryCollections\DictionaryCollections\obj\Debug\DictionaryCollections.pdb
+C:\Users\Lokesh\Documents\Swetha\C# .netProjects\DictionaryCollections\DictionaryCollections\obj\Debug\DictionaryCollections.csprojAssemblyReference.cache
